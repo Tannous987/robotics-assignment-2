@@ -1,0 +1,15 @@
+PING google.com (142.250.203.238) 56(84) bytes of data.
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=1 ttl=117 time=40.8 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=2 ttl=117 time=41.7 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=3 ttl=117 time=40.8 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=4 ttl=117 time=41.2 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=5 ttl=117 time=40.3 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=6 ttl=117 time=43.2 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=7 ttl=117 time=46.3 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=8 ttl=117 time=42.0 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=9 ttl=117 time=39.9 ms
+64 bytes from mrs08s21-in-f14.1e100.net (142.250.203.238): icmp_seq=10 ttl=117 time=40.2 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 39.947/41.645/46.288/1.797 ms
