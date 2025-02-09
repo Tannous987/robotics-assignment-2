@@ -1,3 +1,5 @@
-This repository contains two branches:
-1. master: The initial branch where all tasks were done manually.
-2. automated-creation: A branch created from master, which includes an additional folder called automatically-created-assignment. Inside this folder, you'll find a setup.sh script that automates the process that was previously done manually.
+This repository contains the following:
+  master: Initially, all tasks were done manually in this branch.
+  automated-creation: This branch included an additional folder called automatically-created-assignment, with a setup.sh script that automates the manual tasks.
+  
+The two branches have now been merged, and the current branch includes both the manual work and the automation script.
